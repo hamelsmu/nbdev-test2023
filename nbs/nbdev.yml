@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test2023"
+  site-url: "https://hamelsmu.github.io/nbdev-test2023"
+  description: "testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/hamelsmu/nbdev-test2023"
